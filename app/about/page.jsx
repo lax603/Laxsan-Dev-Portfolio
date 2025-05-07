@@ -78,17 +78,17 @@ export default function About() {
               
               <div className="space-y-4 text-muted-foreground mb-8">
                 <p>
-                  Hello! I'm Laxsan, a web developer with a passion for creating beautiful, functional, 
+                  Hello! I m Laxsan, a web developer with a passion for creating beautiful, functional 
                   and user-friendly websites. I specialize in modern JavaScript frameworks like Next.js and React.js, 
                   combined with elegant styling solutions like Tailwind CSS.
                 </p>
                 <p>
-                  My journey in web development started several years ago, and since then, I've been 
+                  My journey in web development started several years ago, and since then, I ve been 
                   continuously learning and improving my skills. I enjoy solving complex problems and 
                   turning ideas into reality through code.
                 </p>
                 <p>
-                  When I'm not coding, you can find me exploring new technologies, contributing to open-source 
+                  When I m not coding, you can find me exploring new technologies, contributing to open-source 
                   projects, or sharing my knowledge with the developer community.
                 </p>
               </div>

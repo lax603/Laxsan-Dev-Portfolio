@@ -32,7 +32,7 @@ export default function Home() {
               transition={{ duration: 0.8 }}
               className="mb-3"
             >
-              <span className="text-accent text-lg md:text-xl font-medium">Hello, I'm</span>
+              <span className="text-accent text-lg md:text-xl font-medium">Hello, I m</span>
             </motion.div>
             
             <motion.h1 
@@ -191,7 +191,7 @@ export default function Home() {
               viewport={{ once: true }}
               transition={{ duration: 0.5 }}
             >
-              Let's Work Together
+              Let s Work Together
             </motion.h2>
             <motion.p 
               className="text-lg mb-8 text-muted-foreground"
@@ -200,7 +200,7 @@ export default function Home() {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              Have a project in mind? Let's talk about how we can bring your ideas to life!
+              Have a project in mind? Let s talk about how we can bring your ideas to life!
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}

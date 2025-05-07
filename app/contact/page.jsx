@@ -44,7 +44,7 @@ export default function Contact() {
               transition={{ duration: 0.5 }}
             >
               <h3 className="text-2xl font-clash-display font-semibold mb-6">
-                Let's Talk
+                Let s Talk
               </h3>
               
               <p className="text-muted-foreground mb-8">
@@ -94,7 +94,7 @@ export default function Contact() {
               <div className="mt-10 p-6 bg-muted/40 rounded-lg border border-border">
                 <h4 className="font-medium text-lg mb-2">Current Availability</h4>
                 <p className="text-muted-foreground">
-                  I'm currently available for freelance work and project collaborations. 
+                  I m currently available for freelance work and project collaborations.
                   My usual response time is within 24 hours.
                 </p>
               </div>
