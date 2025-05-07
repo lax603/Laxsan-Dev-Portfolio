@@ -198,7 +198,7 @@ export default function Contact() {
       <section className="py-16 md:py-24 bg-muted/50">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-card border rounded-lg overflow-hidden h-96 flex items-center justify-center text-muted-foreground">
-            Map or additional contact information could be displayed here
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31465.037672666018!2d80.00782710981656!3d9.66995693682013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afe53fd7be66aa5%3A0xc7da0d9203baf512!2sJaffna!5e0!3m2!1sen!2slk!4v1746637712845!5m2!1sen!2slk" width="1200" height="400" style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </section>

@@ -49,13 +49,13 @@ export default function About() {
               </div>
               
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
-                <a 
+                <Link 
                   href="#"
                   className="px-6 py-3 text-primary-foreground bg-primary rounded-lg flex items-center justify-center gap-2 font-medium hover:opacity-90 transition-opacity"
                 >
                   <Download className="h-4 w-4" />
                   Download CV
-                </a>
+                </Link>
                 <Link 
                   href="/contact"
                   className="px-6 py-3 border border-primary text-primary rounded-lg font-medium hover:bg-primary/10 transition-colors flex items-center justify-center gap-2"

@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { SectionHeading } from '@/components/section-heading';
 
 
+
 export default function Home() {
   
   const technoicons = [
