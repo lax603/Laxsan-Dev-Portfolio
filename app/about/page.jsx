@@ -86,7 +86,7 @@ export default function About() {
                   combined with elegant styling solutions like Tailwind CSS.
                 </p>
                 <p>
-                  My journey in web development started several years ago, and since then, I ve been 
+                  My journey in web development started several 05 years ago, and since then, I ve been 
                   continuously learning and improving my skills. I enjoy solving complex problems and 
                   turning ideas into reality through code.
                 </p>
@@ -175,15 +175,15 @@ export default function About() {
                 <div className="bg-card p-6 rounded-lg shadow-sm border">
                   <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-3">
                     <h3 className="font-clash-display font-semibold text-lg">
-                      BSc in Computer Science
+                     Self Learning at Home
                     </h3>
                     <div className="flex items-center mt-2 sm:mt-0 text-muted-foreground text-sm">
                       <Calendar className="h-4 w-4 mr-1" />
-                      2014 - 2018
+                      2020 - 2022
                     </div>
                   </div>
                   <p className="text-muted-foreground">
-                    Graduated with honors. Specialized in web technologies and software development.
+                  Learning to the basics of Web Development and HTML , CSS and JavaScript.
                   </p>
                 </div>
               </motion.div>
