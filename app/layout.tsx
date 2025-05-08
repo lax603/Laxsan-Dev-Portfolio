@@ -2,8 +2,9 @@ import './globals.css';
 import type { Metadata } from 'next';
 import { poppins } from '@/lib/fonts';
 import { ThemeProvider } from '@/components/theme-provider';
-import { Navbar } from '@/components/navbar';
+import { Navbar } from '@/components/navbar';import { Analytics } from "@vercel/analytics/react"
 import { Footer } from '@/components/footer';
+
 
 export const metadata: Metadata = {
   title: 'Laxsan Dev | Web Developer',
