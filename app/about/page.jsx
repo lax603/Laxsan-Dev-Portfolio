@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { ArrowRight, Download, Calendar, Briefcase, GraduationCap } from 'lucide-react';
 import Link from 'next/link';
 import { SectionHeading } from '@/components/section-heading';
+import Image from 'next/image';
 
 export default function About() {
   const experiences = [
@@ -45,7 +46,9 @@ export default function About() {
             >
               <div className="bg-muted h-96 rounded-lg overflow-hidden relative flex items-center justify-center">
                 <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" />
-                <span className="text-lg text-muted-foreground italic">Profile Image</span>
+                <span className="text-lg text-muted-foreground italic">
+                  <Image src="/profile.jpg" width={400} height={400} alt="Profile" className="w-full h-full object-cover" />
+                </span>
               </div>
               
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
