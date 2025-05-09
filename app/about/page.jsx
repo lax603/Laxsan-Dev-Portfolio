@@ -21,7 +21,7 @@ export default function About() {
       description: "Built interactive user interfaces with React.js. Worked with REST APIs and implemented state management solutions."
     },
     {
-      title: "Junior Developer",
+      title: " Developer",
       company: "StartupInc",
       period: "2018 - 2019",
       description: "Developed and maintained websites using JavaScript and CSS. Collaborated with design team to implement UI/UX improvements."
